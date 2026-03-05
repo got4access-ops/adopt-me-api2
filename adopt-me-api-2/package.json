@@ -1,0 +1,12 @@
+{
+  "name": "adopt-me-values-api",
+  "version": "1.0.0",
+  "description": "Adopt Me pet values API - proxies amvgg.com with caching",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
